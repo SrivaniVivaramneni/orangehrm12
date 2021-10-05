@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-04T20:58:16 IST" name="Suite" finished-at="2021-10-04T20:58:39 IST" duration-ms="23144">
+    <groups>
+    </groups>
+    <test started-at="2021-10-04T20:58:16 IST" name="Test" finished-at="2021-10-04T20:58:39 IST" duration-ms="23144">
+      <class name="Day_36_Desired_Capabilities.IEtestforDesiredCapabilities">
+        <test-method signature="Open_OrangeHRM()[pri:0, instance:Day_36_Desired_Capabilities.IEtestforDesiredCapabilities@21e360a]" started-at="2021-10-04T20:58:16 IST" name="Open_OrangeHRM" finished-at="2021-10-04T20:58:39 IST" duration-ms="23114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_OrangeHRM -->
+      </class> <!-- Day_36_Desired_Capabilities.IEtestforDesiredCapabilities -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
